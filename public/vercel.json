@@ -1,0 +1,8 @@
+{
+  "env": {
+    "NODE_VERSION": "20"
+  },
+  "build": {
+    "outputDirectory": ".vercel/output/static"
+  }
+}
